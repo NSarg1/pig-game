@@ -1,0 +1,22 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "This simple app was created during my \"The complete JavaScript\"  course.",
+  "homepage": "https://github.com/NSarg7/Pig-Game",
+  "scripts": {
+    "deploy": "gh-pages --dist dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSarg7/Pig-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSarg7/Pig-Game/issues"
+  },
+  
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
